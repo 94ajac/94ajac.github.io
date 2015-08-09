@@ -25,7 +25,6 @@
 	margin-top: 60px;
 }
 .app-header{
-
 	font-family: "Avenir", Futura, Helvetica, sans-serif;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -36,10 +35,9 @@
 	margin-top: 0px;
 }
 .app-contenedor-projects{
-	padding-top: opx;
+	padding-top: 0px;
 	border-radius: 12px 12px;
-	letter-spacing: 2px;
-	text-transform: uppercase;
+
 }
 .app-navbar{
 	background: rgba(0,0,0,0.9);
